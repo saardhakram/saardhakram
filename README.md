@@ -10,7 +10,7 @@ I like turning ideas into working code. Right now I'm sharpening my **data struc
 |---|---|---|
 | 🎮 **Count Me Out** | Hackathon browser game where every point you score turns into an enemy that chases you | [Play it](https://saardhakram.github.io/Count_On_Me-game/) · [Code](https://github.com/saardhakram/Count_On_Me-game) |
 | 📝 **Line Editor in C** | Team project: a command-line text editor with insert, delete, find, replace, stats, undo and file save/load | [Code](https://github.com/saardhakram/Porfolio-building-activity/tree/main/line-editor) |
-| 🧩 **LeetCode Solutions** | 21 problems in C and C++, organised by topic, with notes on approach and complexity | [Repo](https://github.com/saardhakram/leetcode-solutions) |
+| 🧩 **LeetCode Solutions** | 24 problems in C and C++ (arrays, stacks, linked lists, hashing, DP, trees), organised by topic, with notes on approach and complexity | [Repo](https://github.com/saardhakram/leetcode-solutions) |
 | 🏆 **HackerRank Portfolio** | Solved HackerRank problems with clean, commented solutions | [Repo](https://github.com/saardhakram/HackerRank-3rdSem-Portfolio) |
 | 🌐 **Portfolio Website** | My personal site: about me, projects, skills and goals | [Visit](https://saardhakram.github.io/portfolio_blog/) |
 | 📂 **Portfolio Building Course** | All 13 course activities, documented | [Repo](https://github.com/saardhakram/Porfolio-building-activity) |
